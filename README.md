@@ -1,9 +1,7 @@
 # csGraduateApps
 A curated list of application resources for prospective graduate students in Computer Science and related fields. List created by [Chinasa T. Okolo](http://www.chinasaokolo.com), a Computer Science PhD student at Cornell. Feel free to fork and make pull requests with new opportunities!
 
-There are dozens of PhD programs in Computer Science who accept applicants each year, so I won't list them out here but will provide resources 
-
-Fortunately, many departments have started applicant support programs for underrepresented students (primarily PhD students) applying to their respective programs! Check out the list below:
+There are dozens of PhD programs in Computer Science (based in the United States) who accept applicants each year, so I won't list them out here but will provide resources to help you along your journey. Fortunately, many departments have started applicant support programs for underrepresented students (primarily PhD students) applying to their respective programs! Check out the list below:
 
 ## Applicant Support Programs 
 | School        | Program       | Deadline     | Masters/PhD  |
