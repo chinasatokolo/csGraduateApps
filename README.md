@@ -27,6 +27,7 @@ Also, [Black in AI](https://blackinai2020.vercel.app/) recently started their [G
 ### Program Lists
 * [CS Rankings](http://csrankings.org/#/index?all) (My favorite resource for finding top CS programs!)
 * [US News](https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings) 
+* [CS/HCI PhD Opportunities (2021)](http://www.andrewkuz.net/hci-opportunities-2021.html) A great resource for finding open lab positions!
 
 ### General Resources 
 * [Computing Research Association Widening Participation (CRA-WP) CS Graduate School Resource Page](https://cra.org/cra-wp/resourcelibrary/?fwp_audience=undergrad-students&fwp_goal=graduate-school) 
