@@ -8,9 +8,9 @@ There are dozens of PhD programs in Computer Science (based in the United States
 | ------------- |:-------------:| ------------:| ------------:|
 | Cornell | [Computer Science](https://docs.google.com/forms/d/1blJwKXSxrTJFKLzgsblO-MQIP6jEmEl-ONI6yZJta0Q/viewform?edit_requested=true) | October 31st, 2020  | PhD 
 |         | [Information Science](https://docs.google.com/forms/d/e/1FAIpQLSe7PszN4J8aq1qUDgu0j5EcECd_RWO6rtrx0Lz467-kTXDZzQ/viewform) | October 31st, 2020 | PhD |
-| University of Michigan | [Electrical Engineering and Computer Science (EECS)](https://docs.google.com/forms/d/e/1FAIpQLSfgppaIsr1eMjVtqLuX1lFpmoYTAIBOsDj8reDfgEs8OPCrlg/viewform) | Rolling | PhD |
-| Stanford | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLSfPhgkk0DKPEbTOEh87c6ouz_DgxZ4CIMfhpkH_90jaqWQm_A/viewform) | October 31st, 2020 | PhD |
 | MIT | [Electrical Engineering and Computer Science (EECS)](https://www.thrive-eecs.mit.edu/news-eecs-gaap-launch) | November 8th, 2020 | Both |
+| Stanford | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLSfPhgkk0DKPEbTOEh87c6ouz_DgxZ4CIMfhpkH_90jaqWQm_A/viewform) | October 31st, 2020 | PhD |
+| University of Michigan | [Electrical Engineering and Computer Science (EECS)](https://docs.google.com/forms/d/e/1FAIpQLSfgppaIsr1eMjVtqLuX1lFpmoYTAIBOsDj8reDfgEs8OPCrlg/viewform) | Rolling | PhD |
 | University of Pennsylvania | [Computer and Information Science](https://docs.google.com/forms/d/1ds010dwWkV6ZFwUhhrB1-NWFZfHAOFV7ZcytIZ6JDew/viewform?gxids=7757&edit_requested=true) | November 1st, 2020 | PhD |
 |               |               |              |              |
 |               |               |              |              |
@@ -43,6 +43,9 @@ Check out my extensive [repository](https://github.com/chinasaokolo/csGraduateFe
 
 #### Preparing for Graduate School in CS
 * [UT Austin - Preparing for Graduate School](https://www.cs.utexas.edu/undergraduate-program/academics/advising/preparing-graduate-school)
+* [A Princeton CS Major's Guide to Applying to Graduate School](https://www.cs.princeton.edu/academics/ugradpgm/gsg)
+* [Applying to Ph.D. Programs in Computer Science by Mor Harchol-Balter](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
+* [Grad School Resources by Kalpesh Krishna](https://martiansideofthemoon.github.io/2018/05/29/grad-resources.html)
 
 #### Surviving in Graduate School
 * [How to Be a Successful PhD Student by Mark Dredze and Hanna M. Wallach](http://www.cs.jhu.edu/~mdredze/publications/HowtoBeaSuccessfulPhDStudent.pdf)
