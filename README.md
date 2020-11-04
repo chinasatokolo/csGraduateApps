@@ -11,8 +11,8 @@ There are dozens of PhD programs in Computer Science (based in the United States
 | Carnegie Mellon | [Human-Computer Interaction](https://docs.google.com/forms/d/e/1FAIpQLSeBMe-7vZ0cyofdJWmXkNMvNxx8J9uJp5FHhe0uK_OEZq0I1A/viewform) | Rolling  | PhD | 
 | Cornell | [Computer Science](https://docs.google.com/forms/d/1blJwKXSxrTJFKLzgsblO-MQIP6jEmEl-ONI6yZJta0Q/viewform?edit_requested=true) | October 31st, 2020  | PhD |
 |         | [Information Science](https://docs.google.com/forms/d/e/1FAIpQLSe7PszN4J8aq1qUDgu0j5EcECd_RWO6rtrx0Lz467-kTXDZzQ/viewform) | October 31st, 2020 | PhD |
-| MIT | [Electrical Engineering and Computer Science (EECS)](https://www.thrive-eecs.mit.edu/news-eecs-gaap-launch) | November 8th, 2020 | Both |
 | Columbia | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLSegd_dUG0aa6Fxq3kRqrZPhdganPH1ISPbeNmKai6ApMU07SA/viewform) | November 21st, 2020 | PhD |
+| MIT | [Electrical Engineering and Computer Science (EECS)](https://www.thrive-eecs.mit.edu/news-eecs-gaap-launch) | November 8th, 2020 | Both |
 | Northwestern | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLScb1gexOTGCijOyujF5RJDBU7KXdYaYA8Dii2wXV2bv-TkjhQ/viewform) | November 16th, 2020 | PhD |
 | Stanford | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLSfPhgkk0DKPEbTOEh87c6ouz_DgxZ4CIMfhpkH_90jaqWQm_A/viewform) | October 31st, 2020 | PhD |
 | UC Berkeley | [Electrical Engineering and Computer Science (EECS)](https://docs.google.com/forms/d/e/1FAIpQLSdukQmohINpUzbEkOj1RH7Ysfp_c_daLzb2uAQJYbi0KE6Hig/viewform) | December 1st, 2020 | Both | 
