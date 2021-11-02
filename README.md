@@ -26,7 +26,8 @@ Will be updating for 2021 as soon as I can! In the meantime, this [Twitter threa
 | University of Pennsylvania | [Computer and Information Science](https://docs.google.com/forms/d/1ds010dwWkV6ZFwUhhrB1-NWFZfHAOFV7ZcytIZ6JDew) | November 1st, 2021 | PhD |              |
 | University of Texas at Austin | [Computer Science](https://www.cs.utexas.edu/graduate-program/prospective-students/applicationmentorship) | November 27th, 2020 | PhD |              |
 | University of Toronto | [Computer Science](https://sites.google.com/view/torontogaap) | November 3rd, 2021 | Both |              |
-| University of Washington | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLSdRHwA7gisp-S95PIGJBI7KpVz7JhGWRJ5bcPc8WPmVb4SdvA/viewform) | November 8th, 2020 | PhD |              |
+| University of Washington | [Computer Science](https://www.ece.uw.edu/academics/grad/graduate-info-sessions/) | November 8th, 2020 | PhD |              |
+|         | [Electrical & Computer Engineering](https://docs.google.com/forms/d/e/1FAIpQLSd4Rrsa7QYKS7V8B283gC0mpqqBALRSnCbIzr3SV9uLZHXqxw/viewform) | October 30th, 2021 | PhD |              |
 |               |               |              |              |              |
 |               |               |              |              |              |
 |               |               |              |              |              |
