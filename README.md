@@ -14,14 +14,15 @@ Will be updating for 2021 as soon as I can! In the meantime, this [Twitter threa
 | Cornell | [Computer Science](https://docs.google.com/forms/d/1blJwKXSxrTJFKLzgsblO-MQIP6jEmEl-ONI6yZJta0Q/viewform?edit_requested=true) | October 31st, 2020  | PhD |              |
 |         | [Information Science](https://docs.google.com/forms/d/e/1FAIpQLSe7PszN4J8aq1qUDgu0j5EcECd_RWO6rtrx0Lz467-kTXDZzQ/viewform) | October 31st, 2020 | PhD |              |
 | Columbia | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLSd3n1lI0mWuCkPX5wBVgOSx3JKzv12KFD4vn7XySUdcZnq38g/viewform) | November 14th, 2021 | PhD |              |
-| MIT | [Electrical Engineering and Computer Science (EECS)](https://www.thrive-eecs.mit.edu/news-eecs-gaap-launch) | November 8th, 2020 | PhD |              |
-| Northwestern | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLScb1gexOTGCijOyujF5RJDBU7KXdYaYA8Dii2wXV2bv-TkjhQ/viewform) | November 16th, 2020 | PhD |              |
+| MIT | [Electrical Engineering and Computer Science (EECS)](https://www.thrive-eecs.mit.edu/gaap) | November 15th, 2021 | PhD |              |
+| Northwestern | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLScb1gexOTGCijOyujF5RJDBU7KXdYaYA8Dii2wXV2bv-TkjhQ/viewform) | November 16th, 2021 | PhD |              |
 | Stanford | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLSfypKctOR5SIqm13jxmdLprqC9GUsEi-2ETWQtOKj-xkptveg) | October 29th, 2021 | PhD |              |
 | UC Berkeley | [Electrical Engineering and Computer Science (EECS)](https://sites.google.com/berkeley.edu/eaaa/home) | October 15h, 2021 | Both |               |
 |  | [School of Information (iSchool)](https://docs.google.com/forms/d/e/1FAIpQLSeGHXypnrBYIkJL2jsSbAHFqoEDUnZFlqQqqVCLafTL2w_8tw/closedform) | November 15th, 2020 | PhD |              | 
+| University of Colorado Boulder | [Computer Science](https://www.colorado.edu/cs/admissions/graduate-admissions/how-apply) | November 1st, 2021 | PhD |              |
 | University of Massachusetts Amherst | [Computer Science](https://www.cics.umass.edu/admissions/application-instructions) | Rolling | PhD |              |
 | University of Michigan | [Electrical Engineering and Computer Science (EECS)](https://docs.google.com/forms/d/e/1FAIpQLSfgppaIsr1eMjVtqLuX1lFpmoYTAIBOsDj8reDfgEs8OPCrlg/viewform) | Rolling | PhD |              |
-| University of Pennsylvania | [Computer and Information Science](https://docs.google.com/forms/d/1ds010dwWkV6ZFwUhhrB1-NWFZfHAOFV7ZcytIZ6JDew/viewform?gxids=7757&edit_requested=true) | November 1st, 2020 | PhD |              |
+| University of Pennsylvania | [Computer and Information Science](https://docs.google.com/forms/d/1ds010dwWkV6ZFwUhhrB1-NWFZfHAOFV7ZcytIZ6JDew) | November 1st, 2021 | PhD |              |
 | University of Texas at Austin | [Computer Science](https://www.cs.utexas.edu/graduate-program/prospective-students/applicationmentorship) | November 27th, 2020 | PhD |              |
 | University of Washington | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLSdRHwA7gisp-S95PIGJBI7KpVz7JhGWRJ5bcPc8WPmVb4SdvA/viewform) | November 8th, 2020 | PhD |              |
 |               |               |              |              |              |
