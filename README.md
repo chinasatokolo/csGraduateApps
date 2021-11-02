@@ -3,7 +3,7 @@ A curated list of application resources for prospective graduate students in Com
 
 There are dozens of PhD programs in Computer Science (based in the United States) who accept applicants each year, so I won't list them out here but will provide resources to help you along your journey. Fortunately, many departments have started applicant support programs for underrepresented students (primarily PhD students) applying to their respective programs! Check out the list below:
 
-Will be updating for 2021 as soon as I can!
+Will be updating for 2021 as soon as I can! In the meantime, this [Twitter thread](https://twitter.com/jbhuang0604/status/1446981455683407873?s=20) may be helpful.
 
 ## Applicant Support Programs 
 | School        | Program       | Deadline     | Masters/PhD  | Other details |
