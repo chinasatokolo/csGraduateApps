@@ -16,8 +16,8 @@ Will be updating for 2021 as soon as I can! In the meantime, this [Twitter threa
 | Columbia | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLSd3n1lI0mWuCkPX5wBVgOSx3JKzv12KFD4vn7XySUdcZnq38g/viewform) | November 14th, 2021 | PhD |              |
 | MIT | [Electrical Engineering and Computer Science (EECS)](https://www.thrive-eecs.mit.edu/news-eecs-gaap-launch) | November 8th, 2020 | PhD |              |
 | Northwestern | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLScb1gexOTGCijOyujF5RJDBU7KXdYaYA8Dii2wXV2bv-TkjhQ/viewform) | November 16th, 2020 | PhD |              |
-| Stanford | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLSfPhgkk0DKPEbTOEh87c6ouz_DgxZ4CIMfhpkH_90jaqWQm_A/viewform) | October 31st, 2020 | PhD |              |
-| UC Berkeley | [Electrical Engineering and Computer Science (EECS)](https://docs.google.com/forms/d/e/1FAIpQLSdukQmohINpUzbEkOj1RH7Ysfp_c_daLzb2uAQJYbi0KE6Hig/viewform) | December 1st, 2020 | Both |               |
+| Stanford | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLSfypKctOR5SIqm13jxmdLprqC9GUsEi-2ETWQtOKj-xkptveg) | October 29th, 2021 | PhD |              |
+| UC Berkeley | [Electrical Engineering and Computer Science (EECS)](https://sites.google.com/berkeley.edu/eaaa/home) | October 15h, 2021 | Both |               |
 |  | [School of Information (iSchool)](https://docs.google.com/forms/d/e/1FAIpQLSeGHXypnrBYIkJL2jsSbAHFqoEDUnZFlqQqqVCLafTL2w_8tw/closedform) | November 15th, 2020 | PhD |              | 
 | University of Massachusetts Amherst | [Computer Science](https://www.cics.umass.edu/admissions/application-instructions) | Rolling | PhD |              |
 | University of Michigan | [Electrical Engineering and Computer Science (EECS)](https://docs.google.com/forms/d/e/1FAIpQLSfgppaIsr1eMjVtqLuX1lFpmoYTAIBOsDj8reDfgEs8OPCrlg/viewform) | Rolling | PhD |              |
