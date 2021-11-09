@@ -19,8 +19,8 @@ Will be updating for 2021 as soon as I can! In the meantime, this [Twitter threa
 | Northwestern | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLScb1gexOTGCijOyujF5RJDBU7KXdYaYA8Dii2wXV2bv-TkjhQ/viewform) | November 16th, 2021 | PhD |              |
 | Princeton | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLSfKre2DhYTb65Ma21y4xPWxThX9YFClTz9YTSY_885WCLw0dA/viewform) | November 11th, 2021 | PhD |              |
 | Stanford | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLSfypKctOR5SIqm13jxmdLprqC9GUsEi-2ETWQtOKj-xkptveg) | October 29th, 2021 | PhD |              |
-| UC Berkeley | [Electrical Engineering and Computer Science (EECS)](https://sites.google.com/berkeley.edu/eaaa/home) | October 15h, 2021 | Both |               |
-|  | [School of Information (iSchool)](https://docs.google.com/forms/d/e/1FAIpQLSeGHXypnrBYIkJL2jsSbAHFqoEDUnZFlqQqqVCLafTL2w_8tw/closedform) | November 15th, 2020 | PhD |              | 
+| UC Berkeley | [Electrical Engineering and Computer Science (EECS)](https://sites.google.com/berkeley.edu/eaaa/home) | October 15th, 2021 | Both |               |
+|  | [School of Information (iSchool)](https://docs.google.com/forms/d/e/1FAIpQLSeGHXypnrBYIkJL2jsSbAHFqoEDUnZFlqQqqVCLafTL2w_8tw/closedform) | November 15th, 2021 | PhD |              | 
 | University of Colorado Boulder | [Computer Science](https://www.colorado.edu/cs/admissions/graduate-admissions/how-apply) | November 1st, 2021 | PhD |              |
 | University of Massachusetts Amherst | [Computer Science](https://www.cics.umass.edu/admissions/application-instructions) | Rolling | PhD |              |
 | University of Michigan | [Electrical Engineering and Computer Science (EECS)](https://docs.google.com/forms/d/e/1FAIpQLSfgppaIsr1eMjVtqLuX1lFpmoYTAIBOsDj8reDfgEs8OPCrlg/viewform) | Rolling | PhD |              |
