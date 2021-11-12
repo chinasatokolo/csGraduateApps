@@ -22,7 +22,7 @@ Will be updating for 2021 as soon as I can! In the meantime, this [Twitter threa
 | UC Berkeley | [Electrical Engineering and Computer Science (EECS)](https://sites.google.com/berkeley.edu/eaaa/home) | October 15th, 2021 | Both |               |
 |  | [School of Information (iSchool)](https://docs.google.com/forms/d/e/1FAIpQLSeGHXypnrBYIkJL2jsSbAHFqoEDUnZFlqQqqVCLafTL2w_8tw/closedform) | November 15th, 2021 | PhD |              | 
 | University of Colorado Boulder | [Computer Science](https://www.colorado.edu/cs/admissions/graduate-admissions/how-apply) | November 1st, 2021 | PhD |              |
-| University of Massachusetts Amherst | [Computer Science](https://www.cics.umass.edu/admissions/application-instructions) | Rolling | PhD |              |
+| University of Massachusetts Amherst | [Computer Science](https://paspumasscs.github.io) | Rolling | PhD |              |
 | University of Michigan | [Electrical Engineering and Computer Science (EECS)](https://docs.google.com/forms/d/e/1FAIpQLSfgppaIsr1eMjVtqLuX1lFpmoYTAIBOsDj8reDfgEs8OPCrlg/viewform) | Rolling | PhD |              |
 | University of Pennsylvania | [Computer and Information Science](https://docs.google.com/forms/d/1ds010dwWkV6ZFwUhhrB1-NWFZfHAOFV7ZcytIZ6JDew) | November 1st, 2021 | PhD |              |
 | University of Texas at Austin | [Computer Science](https://www.cs.utexas.edu/graduate-program/prospective-students/applicationmentorship) | November 27th, 2020 | PhD |              |
