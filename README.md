@@ -13,6 +13,7 @@ Will be updating for 2021 as soon as I can! In the meantime, this [Twitter threa
 | Carnegie Mellon | [Human-Computer Interaction](https://docs.google.com/forms/d/e/1FAIpQLSeBMe-7vZ0cyofdJWmXkNMvNxx8J9uJp5FHhe0uK_OEZq0I1A/viewform) | Rolling  | PhD |              | 
 | Cornell | [Computer Science](https://forms.gle/8SkBVSB6ntHH46yw6) | November 6th, 2021  | PhD |              |
 |         | [Information Science](https://docs.google.com/forms/d/e/1FAIpQLSd4Rrsa7QYKS7V8B283gC0mpqqBALRSnCbIzr3SV9uLZHXqxw/viewform) | November 20th, 2021 | PhD |              |
+|         | [Operations Research](https://forms.gle/FEBgiRyAqhPhEcGr9) | December 5th, 2021 | PhD |              |
 | Columbia | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLSd3n1lI0mWuCkPX5wBVgOSx3JKzv12KFD4vn7XySUdcZnq38g/viewform) | November 14th, 2021 | PhD |              |
 | Georgia Tech | [College of Computing](https://forms.office.com/pages/responsepage.aspx?id=u5ghSHuuJUuLem1_Mvqgg9xAot3THqRBplHR_fgRBB9UOTRaQ0hWNTVCNjlGTzE2TTIxTlZCTE5YWi4u) | November 15th, 2021 | PhD |              |
 | MIT | [Electrical Engineering and Computer Science (EECS)](https://www.thrive-eecs.mit.edu/gaap) | November 15th, 2021 | PhD |              |
