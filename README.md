@@ -19,10 +19,12 @@ Will be updating for 2022 as soon as I can! In the meantime, this [Twitter threa
 | Georgia Tech | [College of Computing](https://forms.office.com/pages/responsepage.aspx?id=u5ghSHuuJUuLem1_Mvqgg9xAot3THqRBplHR_fgRBB9UOTRaQ0hWNTVCNjlGTzE2TTIxTlZCTE5YWi4u) | November 15th, 2021 | PhD |              |
 | MIT | [Electrical Engineering and Computer Science (EECS)](https://eecs-gaap.mit.edu/) | November 15th, 2022 | PhD |              |
 | Northwestern | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLScb1gexOTGCijOyujF5RJDBU7KXdYaYA8Dii2wXV2bv-TkjhQ/viewform) | November 16th, 2021 | PhD |              |
+| Oregon State University | [Computer Science](https://www.aigsa.club/) | Rolling | PhD |              |
 | Princeton | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLSfKre2DhYTb65Ma21y4xPWxThX9YFClTz9YTSY_885WCLw0dA/viewform) | November 11th, 2021 | PhD |              |
 | Stanford | [Computer Science](https://cs.stanford.edu/admissions/phd/general-information) | October 29th, 2022 | PhD |              |
-| UC Berkeley | [Electrical Engineering and Computer Science (EECS)](https://sites.google.com/berkeley.edu/eaaa/home) | October 15th, 2021 | Both |               |
+| UC Berkeley | [Electrical Engineering and Computer Science (EECS)](https://sites.google.com/berkeley.edu/eaaa/home) | November 11th, 2022 | Both |               |
 |  | [School of Information (iSchool)](https://docs.google.com/forms/d/e/1FAIpQLSeGHXypnrBYIkJL2jsSbAHFqoEDUnZFlqQqqVCLafTL2w_8tw/closedform) | November 15th, 2021 | PhD |              | 
+| University of Chicago | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLScWh8dLviaAfUee4TEb6DENuBennnEpZZ71it1JQJ4UcWbiDw/viewform) | November 15th, 2022 | PhD |              |
 | University of Colorado Boulder | [Computer Science](https://www.colorado.edu/cs/admissions/graduate-admissions) | November 15th, 2022 | PhD |              |
 | University of Massachusetts Amherst | [Computer Science](https://paspumasscs.github.io) | Rolling | PhD |              |
 | University of Michigan | [Electrical Engineering and Computer Science (EECS)](https://docs.google.com/forms/d/e/1FAIpQLSfgppaIsr1eMjVtqLuX1lFpmoYTAIBOsDj8reDfgEs8OPCrlg/viewform) | Rolling | PhD |              |
@@ -31,7 +33,7 @@ Will be updating for 2022 as soon as I can! In the meantime, this [Twitter threa
 
 | University of Texas at Austin | [Computer Science](https://www.cs.utexas.edu/graduate-program/prospective-students/applicationmentorship) | November 27th, 2020 | PhD |              |
 | University of Toronto | [Computer Science](https://sites.google.com/view/torontogaap) | November 3rd, 2021 | Both |              |
-| University of Washington | [Computer Science](https://www.ece.uw.edu/academics/grad/graduate-info-sessions/) | November 8th, 2020 | PhD |              |
+| University of Washington | [Computer Science](https://www.cs.washington.edu/academics/phd/admissions/pams) | October 15th, 2022 | PhD |              |
 |         | [Electrical & Computer Engineering](https://docs.google.com/forms/d/e/1FAIpQLSd4Rrsa7QYKS7V8B283gC0mpqqBALRSnCbIzr3SV9uLZHXqxw/viewform) | October 30th, 2021 | PhD |              |
 |               |               |              |              |              |
 |               |               |              |              |              |
