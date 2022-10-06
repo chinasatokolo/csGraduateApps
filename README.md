@@ -3,7 +3,7 @@ A curated list of application resources for prospective graduate students in Com
 
 There are dozens of PhD programs in Computer Science (based in the United States) who accept applicants each year, so I won't list them out here but will provide resources to help you along your journey. Fortunately, many departments have started applicant support programs for underrepresented students (primarily PhD students) applying to their respective programs! Check out the list below:
 
-Will be updating for 2022 as soon as I can! In the meantime, this [Twitter thread](https://twitter.com/jbhuang0604/status/1446981455683407873?s=20) may be helpful.
+Will be updating for 2022 as soon as I can! In the meantime, this [Twitter thread](https://twitter.com/andrewkuznet/status/1572589678360145922?s=20&t=qDG5vPKqlP480FvBZaI6Ig) may be helpful.
 
 ## Applicant Support Programs 
 | School        | Program       | Deadline     | Masters/PhD  | Other details |
@@ -17,13 +17,13 @@ Will be updating for 2022 as soon as I can! In the meantime, this [Twitter threa
 | Columbia | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLSd3n1lI0mWuCkPX5wBVgOSx3JKzv12KFD4vn7XySUdcZnq38g/viewform) | November 14th, 2021 | PhD |              |
 | ETH Zurich | [All departments](https://sites.google.com/view/ethpaap) | November 1st, 2022 | MSc |              |
 | Georgia Tech | [College of Computing](https://forms.office.com/pages/responsepage.aspx?id=u5ghSHuuJUuLem1_Mvqgg9xAot3THqRBplHR_fgRBB9UOTRaQ0hWNTVCNjlGTzE2TTIxTlZCTE5YWi4u) | November 15th, 2021 | PhD |              |
-| MIT | [Electrical Engineering and Computer Science (EECS)](https://www.thrive-eecs.mit.edu/gaap) | November 15th, 2021 | PhD |              |
+| MIT | [Electrical Engineering and Computer Science (EECS)](https://eecs-gaap.mit.edu/) | November 15th, 2022 | PhD |              |
 | Northwestern | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLScb1gexOTGCijOyujF5RJDBU7KXdYaYA8Dii2wXV2bv-TkjhQ/viewform) | November 16th, 2021 | PhD |              |
 | Princeton | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLSfKre2DhYTb65Ma21y4xPWxThX9YFClTz9YTSY_885WCLw0dA/viewform) | November 11th, 2021 | PhD |              |
 | Stanford | [Computer Science](https://cs.stanford.edu/admissions/phd/general-information) | October 29th, 2022 | PhD |              |
 | UC Berkeley | [Electrical Engineering and Computer Science (EECS)](https://sites.google.com/berkeley.edu/eaaa/home) | October 15th, 2021 | Both |               |
 |  | [School of Information (iSchool)](https://docs.google.com/forms/d/e/1FAIpQLSeGHXypnrBYIkJL2jsSbAHFqoEDUnZFlqQqqVCLafTL2w_8tw/closedform) | November 15th, 2021 | PhD |              | 
-| University of Colorado Boulder | [Computer Science](https://www.colorado.edu/cs/admissions/graduate-admissions/how-apply) | November 1st, 2021 | PhD |              |
+| University of Colorado Boulder | [Computer Science](https://www.colorado.edu/cs/admissions/graduate-admissions) | November 15th, 2022 | PhD |              |
 | University of Massachusetts Amherst | [Computer Science](https://paspumasscs.github.io) | Rolling | PhD |              |
 | University of Michigan | [Electrical Engineering and Computer Science (EECS)](https://docs.google.com/forms/d/e/1FAIpQLSfgppaIsr1eMjVtqLuX1lFpmoYTAIBOsDj8reDfgEs8OPCrlg/viewform) | Rolling | PhD |              |
 | University of Pennsylvania | [Computer and Information Science](https://docs.google.com/forms/d/1ds010dwWkV6ZFwUhhrB1-NWFZfHAOFV7ZcytIZ6JDew) | November 1st, 2021 | PhD |              |
