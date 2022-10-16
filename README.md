@@ -62,6 +62,7 @@ Check out my extensive [repository](https://github.com/chinasaokolo/csGraduateFe
 
 #### Statement Writing
 * [Writing a Research Statement for Graduate School and Fellowships](https://h2r.cs.brown.edu/writing-a-research-statement-for-graduate-school-and-fellowships/)
+* [CS PhD Statements of Purpose](https://cs-sop.org)
 * [Personal Statements by Christopher W. Fletcher](http://cwfletcher.net/Pages/SoP.php)
 
 #### Preparing for Graduate School in CS
