@@ -64,6 +64,8 @@ Check out my extensive [repository](https://github.com/chinasaokolo/csGraduateFe
 * [Writing a Research Statement for Graduate School and Fellowships](https://h2r.cs.brown.edu/writing-a-research-statement-for-graduate-school-and-fellowships/)
 * [CS PhD Statements of Purpose](https://cs-sop.org)
 * [Personal Statements by Christopher W. Fletcher](http://cwfletcher.net/Pages/SoP.php)
+* [Personal Statements by Jing Yu Koh](https://jykoh.com/jykoh_sop.pdf)
+
 
 #### Preparing for Graduate School in CS
 * [UT Austin - Preparing for Graduate School](https://www.cs.utexas.edu/undergraduate-program/academics/advising/preparing-graduate-school)
