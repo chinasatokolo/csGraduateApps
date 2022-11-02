@@ -14,7 +14,7 @@ Will be updating for 2022 as soon as I can! In the meantime, this [Twitter threa
 | Cornell | [Computer Science](https://www.cs.cornell.edu/information/news/newsitem12443/student-applicant-support-program-computer-science-phd) | October 7th, 2022  | PhD |              |
 |         | [Information Science](https://docs.google.com/forms/d/e/1FAIpQLSd4Rrsa7QYKS7V8B283gC0mpqqBALRSnCbIzr3SV9uLZHXqxw/viewform) | TBD | PhD | Status Unknown |
 |         | [Operations Research](https://forms.gle/FEBgiRyAqhPhEcGr9) | TBD | PhD | Status Unknown |
-| Columbia | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLSd3n1lI0mWuCkPX5wBVgOSx3JKzv12KFD4vn7XySUdcZnq38g/viewform) | TBD | PhD | Status Unknown |
+| Columbia | [Computer Science](https://www.cs.columbia.edu/cscu-phd-par-program/) | November 7th, 2022 | PhD |  |
 | ETH Zurich | [All departments](https://sites.google.com/view/ethpaap) | November 1st, 2022 | MSc |              |
 | Georgia Tech | [College of Computing](https://forms.office.com/pages/responsepage.aspx?id=u5ghSHuuJUuLem1_Mvqgg9xAot3THqRBplHR_fgRBB9UOTRaQ0hWNTVCNjlGTzE2TTIxTlZCTE5YWi4u) | TBD | PhD | Status Unknown |
 | MIT | [Electrical Engineering and Computer Science (EECS)](https://eecs-gaap.mit.edu/) | November 15th, 2022 | PhD |              |
