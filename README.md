@@ -17,6 +17,7 @@ Will be updating for 2022 as soon as I can! In the meantime, this [Twitter threa
 | Columbia | [Computer Science](https://www.cs.columbia.edu/cscu-phd-par-program/) | November 7th, 2022 | PhD |  |
 | ETH Zurich | [All departments](https://sites.google.com/view/ethpaap) | November 1st, 2022 | MSc |              |
 | Georgia Tech | [College of Computing](https://forms.office.com/pages/responsepage.aspx?id=u5ghSHuuJUuLem1_Mvqgg9xAot3THqRBplHR_fgRBB9UOTRaQ0hWNTVCNjlGTzE2TTIxTlZCTE5YWi4u) | TBD | PhD | Status Unknown |
+| Johns Hopkins | [Computer Science and Electrical Engineering](https://www.clsp.jhu.edu/apply-for-phd/) | November 20th, 2022 | PhD |              |
 | MIT | [Electrical Engineering and Computer Science (EECS)](https://eecs-gaap.mit.edu/) | November 15th, 2022 | PhD |              |
 | Northwestern | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLScb1gexOTGCijOyujF5RJDBU7KXdYaYA8Dii2wXV2bv-TkjhQ/viewform) | TBD | PhD | Status Unknown |
 | Oregon State University | [Computer Science](https://www.aigsa.club/) | Rolling | PhD |              |
