@@ -1,9 +1,9 @@
 # csGraduateApps
 A curated list of application resources for prospective graduate students in Computer Science and related fields. List created by [Chinasa T. Okolo](http://www.chinasaokolo.com), a Computer Science PhD student at Cornell. Feel free to fork and make pull requests with new opportunities!
 
-There are dozens of PhD programs in Computer Science (based in the United States) who accept applicants each year, so I won't list them out here but will provide resources to help you along your journey. Fortunately, many departments have started applicant support programs for underrepresented students (primarily PhD students) applying to their respective programs! Check out the list below:
+There are dozens of PhD programs in Computer Science (based in the United States) that accept applicants each year, so I won't list them out here but will provide resources to help you along your journey. Fortunately, many departments have started applicant support programs for underrepresented students (primarily PhD students) applying to their respective programs! Check out the list below:
 
-Will be updating for 2022 as soon as I can! In the meantime, this [Twitter thread](https://twitter.com/andrewkuznet/status/1572589678360145922?s=20&t=qDG5vPKqlP480FvBZaI6Ig) may be helpful. For programs I have not seen updates for the 2022 application cycle, they are listed as "Status Unknown".
+Will be updating for 2023 as soon as I can! In the meantime, this [Twitter thread](https://x.com/andrewkuznet/status/1710330311643398613?s=20) may be helpful. For programs I have not seen updates for the 2023 application cycle, they are listed as "Status Unknown".
 
 ## Applicant Support Programs 
 | School        | Program       | Deadline     | Masters/PhD  | Other details |
