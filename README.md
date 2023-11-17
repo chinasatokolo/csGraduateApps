@@ -25,7 +25,7 @@ Will be updating for 2023 as soon as I can! In the meantime, this [Twitter threa
 | Stanford | [Computer Science](https://www.cs.stanford.edu/admissions-student-resources) | October 27th, 2023 | PhD |              |
 | UC Berkeley | [Electrical Engineering and Computer Science (EECS)](https://sites.google.com/berkeley.edu/eaaa/home) | October 8th, 2023 | Both |               |
 |  | [School of Information (iSchool)](https://www.ischool.berkeley.edu/programs/phd/apply/faq#feedback) | November 15th, 2023 | PhD |  | 
-| University of Chicago | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLScWh8dLviaAfUee4TEb6DENuBennnEpZZ71it1JQJ4UcWbiDw/viewform) | November 15th, 2022 | PhD |              |
+| University of Chicago | [Computer Science](https://cs.uchicago.edu/academics/admission/?phd) | November 25th, 2023 | PhD |              |
 | University of Colorado Boulder | [Computer Science](https://www.colorado.edu/cs/admissions/graduate-admissions) | November 15th, 2022 | PhD |              |
 | University of Massachusetts Amherst | [Computer Science](https://paspumasscs.github.io) | Rolling | PhD | Status Unknown |
 | University of Michigan | [Electrical Engineering and Computer Science (EECS)](https://docs.google.com/forms/d/e/1FAIpQLSfgppaIsr1eMjVtqLuX1lFpmoYTAIBOsDj8reDfgEs8OPCrlg/viewform) | Rolling | PhD |              |
