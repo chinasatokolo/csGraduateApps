@@ -22,9 +22,9 @@ Will be updating for 2023 as soon as I can! In the meantime, this [Twitter threa
 | Northwestern | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLScb1gexOTGCijOyujF5RJDBU7KXdYaYA8Dii2wXV2bv-TkjhQ/viewform) | TBD | PhD | Status Unknown |
 | Oregon State University | [Computer Science](https://www.aigsa.club/) | Rolling | PhD |              |
 | Princeton | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLSfKre2DhYTb65Ma21y4xPWxThX9YFClTz9YTSY_885WCLw0dA/viewform) | TBD | PhD | Status Unknown |
-| Stanford | [Computer Science](https://cs.stanford.edu/admissions/phd/general-information) | October 29th, 2022 | PhD |              |
+| Stanford | [Computer Science](https://www.cs.stanford.edu/admissions-student-resources) | October 27th, 2023 | PhD |              |
 | UC Berkeley | [Electrical Engineering and Computer Science (EECS)](https://sites.google.com/berkeley.edu/eaaa/home) | October 8th, 2023 | Both |               |
-|  | [School of Information (iSchool)](https://docs.google.com/forms/d/e/1FAIpQLSeGHXypnrBYIkJL2jsSbAHFqoEDUnZFlqQqqVCLafTL2w_8tw/closedform) | TBD | PhD | Status Unknown | 
+|  | [School of Information (iSchool)](https://www.ischool.berkeley.edu/programs/phd/apply/faq#feedback) | November 15th, 2023 | PhD |  | 
 | University of Chicago | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLScWh8dLviaAfUee4TEb6DENuBennnEpZZ71it1JQJ4UcWbiDw/viewform) | November 15th, 2022 | PhD |              |
 | University of Colorado Boulder | [Computer Science](https://www.colorado.edu/cs/admissions/graduate-admissions) | November 15th, 2022 | PhD |              |
 | University of Massachusetts Amherst | [Computer Science](https://paspumasscs.github.io) | Rolling | PhD | Status Unknown |
