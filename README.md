@@ -36,7 +36,7 @@ Please note that these programs are primarily for underrepresented students who 
 |         | [Bioengineering](https://docs.google.com/forms/d/e/1FAIpQLSdsr2p5e9RldmUe5qpEpSpRThKFEhII0KSPtZ3hvFEVmdCaPg/viewform) | TBD | PhD |    Status Unknown          |
 | University of Texas at Austin | [Computer Science](https://www.cs.utexas.edu/graduate-program/prospective-students/applicationmentorship) | TBD | PhD | Status Unknown |
 | University of Toronto | [Computer Science](https://sites.google.com/view/torontogaap) | November 3rd, 2023 | Both |  |
-|                       | [School of Information](https://docs.google.com/forms/d/e/1FAIpQLSdUsjQ8gAx5_-DGZoX1tPLUllZTLA7_aGRr0pxmWdxIyhkxFg/viewform) | November 15th, 2023 | PhD |  |
+|         | [School of Information](https://docs.google.com/forms/d/e/1FAIpQLSdUsjQ8gAx5_-DGZoX1tPLUllZTLA7_aGRr0pxmWdxIyhkxFg/viewform) | November 15th, 2023 | PhD |       |
 | University of Washington | [Computer Science](https://www.cs.washington.edu/academics/phd/admissions/pams) | TBD | PhD |  Status Unknown  |
 |         | [Electrical & Computer Engineering](https://docs.google.com/forms/d/e/1FAIpQLSd4Rrsa7QYKS7V8B283gC0mpqqBALRSnCbIzr3SV9uLZHXqxw/viewform) | TBD | PhD | Status Unknown |
 |         | [Information School](https://docs.google.com/forms/d/e/1FAIpQLScarQbhibcskwkPcxDmkxa46ltvHRmYFF6Ap1pGGhjbp7CtrA/viewform) | November 25th, 2023 | PhD |  |
