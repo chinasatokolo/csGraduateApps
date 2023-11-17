@@ -3,38 +3,58 @@ A curated list of application resources for prospective graduate students in Com
 
 There are dozens of PhD programs in Computer Science (based in the United States) that accept applicants each year, so I won't list them out here but will provide resources to help you along your journey. Fortunately, many departments have started applicant support programs for underrepresented students (primarily PhD students) applying to their respective programs! Check out the list below:
 
-Will be updating for 2023 as soon as I can! In the meantime, this [Twitter thread](https://x.com/andrewkuznet/status/1710330311643398613?s=20) may be helpful. For programs I have not seen updates for the 2023 application cycle, they are listed as "Status Unknown".
+For programs I have not seen updates for the upcoming application cycle, they are listed as "Status Unknown".
+
+**2024-2025 updates included**
 
 ## Applicant Support Programs 
 | School        | Program       | Deadline     | Masters/PhD  | Other details |
 | ------------- |:-------------:| ------------:| ------------:| ------------:|
-| Brown | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLScdG8AjMHfKAYmG8BqRBek6QffvZGUOTl9vgHnlClAUPZuOQw/viewform) | Rolling | Both | Status Unknown | 
-| Carnegie Mellon | [Computer Science](https://www.cs.cmu.edu/gasp) | Rolling | Both |              | 
-| Carnegie Mellon | [Human-Computer Interaction](https://docs.google.com/forms/d/e/1FAIpQLSeBMe-7vZ0cyofdJWmXkNMvNxx8J9uJp5FHhe0uK_OEZq0I1A/viewform) | Rolling  | PhD |              | 
-| Cornell | [Computer Science](https://www.cs.cornell.edu/information/news/newsitem12443/student-applicant-support-program-computer-science-phd) | October 7th, 2022  | PhD |              |
-|         | [Information Science](https://docs.google.com/forms/d/e/1FAIpQLSd4Rrsa7QYKS7V8B283gC0mpqqBALRSnCbIzr3SV9uLZHXqxw/viewform) | TBD | PhD | Status Unknown |
-|         | [Operations Research](https://forms.gle/FEBgiRyAqhPhEcGr9) | TBD | PhD | Status Unknown |
-| Columbia | [Computer Science](https://www.cs.columbia.edu/cscu-phd-par-program/) | November 7th, 2022 | PhD |  |
-| ETH Zurich | [All departments](https://www.ethzpaap.com/) | November 15th, 2022 | MSc |              |
-| Georgia Tech | [College of Computing](https://forms.office.com/pages/responsepage.aspx?id=u5ghSHuuJUuLem1_Mvqgg9xAot3THqRBplHR_fgRBB9UOTRaQ0hWNTVCNjlGTzE2TTIxTlZCTE5YWi4u) | TBD | PhD | Status Unknown |
-| Johns Hopkins | [Computer Science and Electrical Engineering](https://www.clsp.jhu.edu/apply-for-phd/) | November 20th, 2022 | PhD |              |
-| MIT | [Electrical Engineering and Computer Science (EECS)](https://eecs-gaap.mit.edu/) | November 15th, 2022 | PhD |              |
-| Northwestern | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLScb1gexOTGCijOyujF5RJDBU7KXdYaYA8Dii2wXV2bv-TkjhQ/viewform) | TBD | PhD | Status Unknown |
-| Oregon State University | [Computer Science](https://www.aigsa.club/) | Rolling | PhD |              |
-| Princeton | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLSfKre2DhYTb65Ma21y4xPWxThX9YFClTz9YTSY_885WCLw0dA/viewform) | TBD | PhD | Status Unknown |
-| Stanford | [Computer Science](https://cs.stanford.edu/admissions/phd/general-information) | October 29th, 2022 | PhD |              |
-| UC Berkeley | [Electrical Engineering and Computer Science (EECS)](https://sites.google.com/berkeley.edu/eaaa/home) | October 8th, 2022 | Both |               |
-|  | [School of Information (iSchool)](https://docs.google.com/forms/d/e/1FAIpQLSeGHXypnrBYIkJL2jsSbAHFqoEDUnZFlqQqqVCLafTL2w_8tw/closedform) | TBD | PhD | Status Unknown | 
-| University of Chicago | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLScWh8dLviaAfUee4TEb6DENuBennnEpZZ71it1JQJ4UcWbiDw/viewform) | November 15th, 2022 | PhD |              |
-| University of Colorado Boulder | [Computer Science](https://www.colorado.edu/cs/admissions/graduate-admissions) | November 15th, 2022 | PhD |              |
-| University of Massachusetts Amherst | [Computer Science](https://paspumasscs.github.io) | Rolling | PhD | Status Unknown |
-| University of Michigan | [Electrical Engineering and Computer Science (EECS)](https://docs.google.com/forms/d/e/1FAIpQLSfgppaIsr1eMjVtqLuX1lFpmoYTAIBOsDj8reDfgEs8OPCrlg/viewform) | Rolling | PhD |              |
-| University of Pennsylvania | [Computer and Information Science](https://docs.google.com/forms/d/1ds010dwWkV6ZFwUhhrB1-NWFZfHAOFV7ZcytIZ6JDew) | TBD | PhD | Status Unknown |
-|         | [Bioengineering](https://docs.google.com/forms/d/e/1FAIpQLSdsr2p5e9RldmUe5qpEpSpRThKFEhII0KSPtZ3hvFEVmdCaPg/viewform) | November 5th, 2022 | PhD |              |
-| University of Texas at Austin | [Computer Science](https://www.cs.utexas.edu/graduate-program/prospective-students/applicationmentorship) | TBD | PhD | Status Unknown |
-| University of Toronto | [Computer Science](https://sites.google.com/view/torontogaap) | TBD | Both | Status Unknown |
-| University of Washington | [Computer Science](https://www.cs.washington.edu/academics/phd/admissions/pams) | October 15th, 2022 | PhD |              |
-|         | [Electrical & Computer Engineering](https://docs.google.com/forms/d/e/1FAIpQLSd4Rrsa7QYKS7V8B283gC0mpqqBALRSnCbIzr3SV9uLZHXqxw/viewform) | TBD | PhD | Status Unknown |
+| Arizona State | [Computer Science](https://scai.engineering.asu.edu/graduate-computer-science/) | December 31, 2023 (PhD), December 1, 2023 (MS)| Both |              | 
+| Boston University | [Data Science](https://www.bu.edu/cds-faculty/programs-admissions/) | December 15, 2023 (PhD Priority), February 1, 2024 (PhD Final/MS Priority) | Both |              | 
+|                 | [Computer Science](https://www.bu.edu/cs/phd-program/) | December 15, 2023 | PhD |              | 
+| Brown | [Computer Science](https://cs.brown.edu/degrees/) | December 15, 2023 (PhD), January 15, 2024 (MS) | PhD | [Application Support](https://cs.brown.edu/degrees/doctoral/applications/helpful-resources-applying-computer-science-phd-programs/?edit_off=true) | 
+| Carnegie Mellon | [Computer Science](https://www.cs.cmu.edu/academics/overview-programs) | November 29, 2023 3 PM EST (Early), December 13, 2023 3 PM EST (Final) | Both | [Student Resources](https://csd.cmu.edu/academics/current-student-resources) | 
+|                 | [Human-Computer Interaction](https://docs.google.com/forms/d/e/1FAIpQLSeBMe-7vZ0cyofdJWmXkNMvNxx8J9uJp5FHhe0uK_OEZq0I1A/viewform) | November 29, 2023 3 PM EST (Early), December 13, 2023 3 PM EST (Final)  | Both |              | 
+|                 | [Machine Learning](https://www.ml.cmu.edu/academics/) | November 29, 2023 3 PM EST (Early), December 13, 2023 3 PM EST (Final) | Both |              |
+| Case Western Reserve | [Computer Science](https://engineering.case.edu/computer-and-data-sciences/academics/computing-science/doctor-philosophy-0) |  January 5, 2024 (MS/PhD Priority), August 1, 2024 (MS/PhD Final) | Both |              |
+| Cornell | [Computer Science](https://www.cs.cornell.edu/phd) | December 15, 2023 (PhD), January 15, 2024 (MS) | PhD | [Applicant Support](https://docs.google.com/forms/d/e/1FAIpQLSeim214cPsCypGeK7rQSGiUVtapoXTDbrlIxzHYmyeAYN_hew/viewform?usp=sf_link) |
+|         | [Information Science](https://infosci.cornell.edu/phd) |  December 1, 2023 | PhD | [Cornell IS Student-Applicant Reading Program (SARP)](https://forms.gle/vNqUsUDHE7A4hroB7) |
+|         | [Operations Research](https://www.orie.cornell.edu/orie/programs/phd-program) | January 5, 2024 | PhD | [Applicant Support](https://docs.google.com/forms/d/e/1FAIpQLScoPb919pO4RIFpuVmeNkOdmGRwpI5yA1T8rDjcBwHAQERtYQ/viewform) |
+| Columbia | [Computer Science](https://www.cs.columbia.edu/education/phd/) | December 15, 2023 (PhD), January 15, 2024 (MS Priority), February 15, 2024 (MS Final) | Both | [Applicant Support](https://www.cs.columbia.edu/cscu-phd-par-program/) |
+| Duke | [Computer Science](https://gradschool.duke.edu/academics/programs-degrees/computer-science) | December 14, 2023 (PhD), January 31, 2024 (MS)| Both |  |
+| ETH Zurich | [All departments](https://ethz.ch/en/studies/master.html) | November 1 - December 15, 2023 | MS |              |
+| George Washington University | [Computer Science](https://www.cs.seas.gwu.edu/graduate-programs) | January 15, 2024 | Both |              |
+| Georgia Tech | [College of Computing](https://www.cc.gatech.edu/degree-programs) |  | Both |              |
+| Johns Hopkins | [Computer Science and Electrical Engineering](https://www.clsp.jhu.edu/apply-for-phd/) | December 15, 2023 (CS), December 22, 2023 (ECE) | PhD | [Applicant Support](https://forms.gle/vwMFFXSP6pWxn7fR9) |
+| MIT | [Electrical Engineering and Computer Science (EECS)](https://www.eecs.mit.edu/academics/graduate-programs/degree-programs/) | December 15, 2023 | PhD | [Applicant Support](https://eecs-gaap.mit.edu/)|
+| NYU | [Data Science](https://cds.nyu.edu/phd-admissions-req/) | December 5, 2023, 5 PM ET (PhD), January 22, 2024, 5 PM ET (MS) | Both |              |
+|     | [Computer Science](https://engineering.nyu.edu/academics/programs/computer-science-phd) |  December 1, 2023 | PhD |              |
+| Northwestern | [Computer Science](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/) | December 1, 2023 (PhD), Rolling (MS) | Both | [Applicant Support](https://docs.google.com/forms/d/e/1FAIpQLSchg_HC_1gPvxKMBkOjleih4rVuGX894Slr_RfBh7URSv_81w/viewform)|
+| Oregon State University | [Computer Science](https://engineering.oregonstate.edu/Academics/Degrees/computer-science#toc-graduate-information) | December 1, 2023 (PhD), January 1, 2024 (MS) | Both | [AIGSA](https://www.aigsa.club)|
+| Princeton | [Computer Science](https://www.cs.princeton.edu/grad) | December 15, 2023 | PhD | [Applicant Support](https://docs.google.com/forms/d/e/1FAIpQLSeDGcQpK2CM9cdFCwfjmqOay9F26_EJMSSyKNHq_7BT2rhneg/viewform) |
+| Rensselaer Polytechnic Institute | [Computer Science](https://science.rpi.edu/computer-science/programs/graduate) | January 1, 2024 (PhD), March 1, 2024 (MS) | Both |              |
+| Rice | [Computer Science](https://csweb.rice.edu/academics/graduate-programs) | January 1, 2024 | PhD |              |
+| Stanford | [Computer Science](https://www.cs.stanford.edu/phd-program-overview) | December 5, 2023 | Both |              |
+| UC Berkeley | [Electrical Engineering and Computer Science (EECS)](https://eecs.berkeley.edu/academics/graduate/research-programs/admissions) | December 11, 2023, 8:59 PM PST | Both | [Application Support](https://sites.google.com/berkeley.edu/eaaa/home)|
+|          | [School of Information (iSchool)](https://www.ischool.berkeley.edu/programs/phd) | December 4, 2023, 8:59 PM PST | Both | [Applicant Support](https://www.ischool.berkeley.edu/programs/phd/apply/faq) |
+| UCLA | [Computer Science](https://www.cs.ucla.edu/graduate-admissions/) | December 15, 2023, 11:59 PM PST | Both |              |
+| UC San Diego | [Computer Science](https://cse.ucsd.edu/graduate/degree-programs) | December 20, 2023, 11:59 PM PST | Both |              |
+|              | [Data Science](https://datascience.ucsd.edu/graduate) | December 15, 2023, 11:59 PM PST | Both |              |
+| University of Chicago | [Computer Science](https://cs.uchicago.edu/academics/phd/phd-program-overview/) | December 18, 2023 | Both | [Applicant Support](https://urldefense.com/v3/__https://forms.gle/j63A9Kfg49nauzB1A__;!!BpyFHLRN4TMTrA!4798Q_mNfDh52hVgm1y7q9r09ZpmXSgv1vkziUbZpmgnTlwg704Aec9lsMjXLhdHJcob00JcVEtc861BkudrWOrNWdhawGby$)|
+|                       | [Data Science](https://codas.uchicago.edu/graduate-program/) | January 4, 2024 (PhD), February 5, 2024 (MS) | Both | [Applicant Support](https://urldefense.com/v3/__https://forms.gle/j63A9Kfg49nauzB1A__;!!BpyFHLRN4TMTrA!4798Q_mNfDh52hVgm1y7q9r09ZpmXSgv1vkziUbZpmgnTlwg704Aec9lsMjXLhdHJcob00JcVEtc861BkudrWOrNWdhawGby$)|
+| University of Colorado Boulder | [Computer Science](https://www.colorado.edu/cs/admissions/graduate-admissions) | December 15, 2023 10 PM MST | Both |              |
+| University of Massachusetts Amherst | [Computer Science](https://www.cics.umass.edu/degree-program/doctoral) | December 15, 2023 | Both | [Applicant Support](https://paspumasscs.github.io/) |
+| University of Michigan | [Electrical Engineering and Computer Science (EECS)](https://ece.engin.umich.edu/academics/graduate-programs/prospective-grad-students/) | December 15, 2023 (PhD), January 15, 2024 (MS) | Both |              |
+| University of Minnesota | [Computer Science](https://cse.umn.edu/cs/graduate) | December 15, 2023 (PhD), March 1, 2024 (MS) | Both | [CSGA](https://csgsa.umn.edu)|
+| University of Pennsylvania | [Computer and Information Science](https://www.cis.upenn.edu/graduate/) | December 1, 2023 | PhD |              |
+| University of Pittsburgh | [Computer Science](https://www.sci.pitt.edu/academics/doctoral-degrees/computer-science-phd) | January 15, 2024 (PhD), February 15, 2024 (MS) | Both |              |
+|                          | [Information Science](https://www.sci.pitt.edu/academics/doctoral-degrees/information-science-phd) | January 15, 2024 (PhD), July 15, 2024 (MS) | Both |              |
+| University of Texas at Austin | [Computer Science](https://www.cs.utexas.edu/graduate-program) | December 15, 2023 11:59 PM CST) | Both |              |
+| University of Toronto | [Computer Science](https://www.sgs.utoronto.ca/programs/computer-science/) | December 1, 2023 | Both | [Applicant Support](https://sites.google.com/view/torontogaap) |
+| USC | [Computer Science](https://www.sgs.utoronto.ca/programs/computer-science/) | December 15, 2023 | Both |              |
+| University of Washington | [Computer Science and Engineering](https://www.cs.washington.edu/academics/phd) | December 15, 2023 11:59 PM PT | PhD | [Applicant Support](https://www.cs.washington.edu/academics/phd/admissions/pams) |
+|                          | [Electrical & Computer Engineering](https://www.ece.uw.edu/academics/grad/) | December 15, 2023 11:59 PM PT | Both | [Applicant Support](https://www.ece.uw.edu/academics/grad/graduate-info-sessions/) |
 |               |               |              |              |              |
 |               |               |              |              |              |
 |               |               |              |              |              |
