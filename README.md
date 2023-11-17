@@ -9,8 +9,8 @@ Will be updating for 2023 as soon as I can! In the meantime, this [Twitter threa
 | School        | Program       | Deadline     | Masters/PhD  | Other details |
 | ------------- |:-------------:| ------------:| ------------:| ------------:|
 | Brown | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLScdG8AjMHfKAYmG8BqRBek6QffvZGUOTl9vgHnlClAUPZuOQw/viewform) | Rolling | Both | Status Unknown | 
-| Carnegie Mellon | [Computer Science](https://www.cs.cmu.edu/gasp) | Rolling | Both |              | 
-| Carnegie Mellon | [Human-Computer Interaction](https://docs.google.com/forms/d/e/1FAIpQLSeBMe-7vZ0cyofdJWmXkNMvNxx8J9uJp5FHhe0uK_OEZq0I1A/viewform) | Rolling  | PhD |              | 
+| Carnegie Mellon | [Computer Science](https://www.cs.cmu.edu/academics/phd/application-support) | September 30th, 2023 | PhD |              | 
+| Carnegie Mellon | [Human-Computer Interaction](https://docs.google.com/forms/d/e/1FAIpQLSeBMe-7vZ0cyofdJWmXkNMvNxx8J9uJp5FHhe0uK_OEZq0I1A/viewform) | Status Unknown  | PhD |              | 
 | Cornell | [Computer Science](https://www.cs.cornell.edu/phd/admissions) | October 6th, 2023  | PhD |              |
 |         | [Information Science](https://docs.google.com/forms/d/e/1FAIpQLSd4Rrsa7QYKS7V8B283gC0mpqqBALRSnCbIzr3SV9uLZHXqxw/viewform) | TBD | PhD | Status Unknown |
 |         | [Operations Research](https://forms.gle/FEBgiRyAqhPhEcGr9) | TBD | PhD | Status Unknown |
