@@ -29,8 +29,8 @@ Please note that these programs are primarily for underrepresented students who 
 |  | [School of Information (iSchool)](https://www.ischool.berkeley.edu/programs/phd/apply/faq#feedback) | November 15th, 2023 | PhD |  | 
 | University of Chicago | [Computer Science](https://cs.uchicago.edu/academics/admission/?phd) | November 25th, 2023 | PhD |              |
 | University of Colorado Boulder | [Computer Science](https://www.colorado.edu/cs/admissions/graduate-admissions) | TBD | PhD |   Status Unknown  |
-| University of Massachusetts Amherst | [Computer Science](https://paspumasscs.github.io) | Rolling | PhD | Status Unknown |
-| University of Michigan | [Electrical Engineering and Computer Science (EECS)](https://docs.google.com/forms/d/e/1FAIpQLSfgppaIsr1eMjVtqLuX1lFpmoYTAIBOsDj8reDfgEs8OPCrlg/viewform) | Rolling | PhD | Status Unknown |
+| University of Massachusetts Amherst | [Computer Science](https://paspumasscs.github.io) | TBD | PhD | Status Unknown |
+| University of Michigan | [Electrical Engineering and Computer Science (EECS)](https://docs.google.com/forms/d/e/1FAIpQLSfgppaIsr1eMjVtqLuX1lFpmoYTAIBOsDj8reDfgEs8OPCrlg/viewform) | TBD | PhD | Status Unknown |
 |         | [Information School](https://docs.google.com/forms/d/e/1FAIpQLScNeA4kUsDwdwFCrAldBOm9kd8CrD8hIc8bmTPsnCTWqZET5g/closedform) | November 15th, 2023 | PhD | |
 | University of Pennsylvania | [Computer and Information Science](https://docs.google.com/forms/d/1ds010dwWkV6ZFwUhhrB1-NWFZfHAOFV7ZcytIZ6JDew) | TBD | PhD | Status Unknown |
 |         | [Bioengineering](https://docs.google.com/forms/d/e/1FAIpQLSdsr2p5e9RldmUe5qpEpSpRThKFEhII0KSPtZ3hvFEVmdCaPg/viewform) | TBD | PhD |    Status Unknown          |
@@ -38,7 +38,7 @@ Please note that these programs are primarily for underrepresented students who 
 | University of Toronto | [Computer Science](https://sites.google.com/view/torontogaap) | November 3rd, 2023 | Both |  |
 | University of Washington | [Computer Science](https://www.cs.washington.edu/academics/phd/admissions/pams) | TBD | PhD |  Status Unknown  |
 |         | [Electrical & Computer Engineering](https://docs.google.com/forms/d/e/1FAIpQLSd4Rrsa7QYKS7V8B283gC0mpqqBALRSnCbIzr3SV9uLZHXqxw/viewform) | TBD | PhD | Status Unknown |
-|         | [Information School](https://docs.google.com/forms/d/e/1FAIpQLScarQbhibcskwkPcxDmkxa46ltvHRmYFF6Ap1pGGhjbp7CtrA/viewform) | November 25th, 2023 | PhD | Status Unknown |
+|         | [Information School](https://docs.google.com/forms/d/e/1FAIpQLScarQbhibcskwkPcxDmkxa46ltvHRmYFF6Ap1pGGhjbp7CtrA/viewform) | November 25th, 2023 | PhD |  |
 |               |               |              |              |              |
 |               |               |              |              |              |
 |               |               |              |              |              |
