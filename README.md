@@ -14,10 +14,10 @@ Will be updating for 2023 as soon as I can! In the meantime, this [Twitter threa
 | Cornell | [Computer Science](https://www.cs.cornell.edu/phd/admissions) | October 6th, 2023  | PhD |              |
 |         | [Information Science](https://docs.google.com/forms/d/e/1FAIpQLSd4Rrsa7QYKS7V8B283gC0mpqqBALRSnCbIzr3SV9uLZHXqxw/viewform) | TBD | PhD | Status Unknown |
 |         | [Operations Research](https://forms.gle/FEBgiRyAqhPhEcGr9) | TBD | PhD | Status Unknown |
-| Columbia | [Computer Science](https://www.cs.columbia.edu/cscu-phd-par-program/) | November 7th, 2022 | PhD |  |
+| Columbia | [Computer Science](https://www.cs.columbia.edu/cscu-phd-par-program/) | November 10th, 2023 | PhD |  |
 | ETH Zurich | [All departments](https://www.ethzpaap.com/) | November 15th, 2022 | MSc |              |
 | Georgia Tech | [College of Computing](https://forms.office.com/pages/responsepage.aspx?id=u5ghSHuuJUuLem1_Mvqgg9xAot3THqRBplHR_fgRBB9UOTRaQ0hWNTVCNjlGTzE2TTIxTlZCTE5YWi4u) | TBD | PhD | Status Unknown |
-| Johns Hopkins | [Computer Science and Electrical Engineering](https://www.clsp.jhu.edu/apply-for-phd/) | November 20th, 2022 | PhD |              |
+| Johns Hopkins | [Computer Science and Electrical Engineering](https://www.clsp.jhu.edu/apply-for-phd/) | November 19th, 2023 | PhD |              |
 | MIT | [Electrical Engineering and Computer Science (EECS)](https://eecs-gaap.mit.edu/) | November 15th, 2022 | PhD |              |
 | Northwestern | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLScb1gexOTGCijOyujF5RJDBU7KXdYaYA8Dii2wXV2bv-TkjhQ/viewform) | TBD | PhD | Status Unknown |
 | Oregon State University | [Computer Science](https://www.aigsa.club/) | Rolling | PhD |              |
@@ -45,9 +45,9 @@ Will be updating for 2023 as soon as I can! In the meantime, this [Twitter threa
 
 
 ## Resources for Applying to CS Graduate Programs
-When applying to graduate school, my main thesis was set in two parts: (1) the program had to be a top program (top 25 or so) in CS (2) there had to be at least 2-3 professors that I was interested in working with in the department. To be honest, I applied to schools outside of the top 25 like Emory and Washington University in St. Louis (WashU), but they also had other strong departments in medicine, computational biology, etc. that aligned with my interests at the time. To this point, I believe that my second criteria was much more important than my first criteria. It's nice to be in a top-tier program, but if you aren't doing research you're passionate about, it kinds of lessens the point for pursuing a PhD. I was fortunate to get both, but this may not always be possible.
+When applying to graduate school, my main thesis was set in two parts: (1) the program had to be a top program (top 25 or so) in CS (2) there had to be at least 2-3 professors that I was interested in working with in the department. To be honest, I applied to schools outside of the top 25, like Emory and Washington University in St. Louis (WashU), but they also had other strong departments in medicine, computational biology, etc., that aligned with my interests at the time. To this point, I believe that my second criteria was much more important than my first criteria. It's nice to be in a top-tier program, but if you aren't doing research you're passionate about, it kind of weakens the point of pursuing a PhD. I was fortunate to get both, but this may not always be possible.
 
-Also, [Black in AI](https://blackinai2020.vercel.app/) recently started their [Graduate application mentoring program](https://blackinai.github.io/post/academic_programs/) to support Black students applying to graduate programs! The deadline has passed, but stay tuned for future program updates. I've been involved with this organization for years and support everything they do.
+Also, [Black in AI](https://blackinai2020.vercel.app/) recently relaunched their [ Emerging Leaders in AI](https://blackinai.github.io/post/academic_programs/) to support Black students applying to graduate programs! If you'd like to mentor, the [interest form](https://docs.google.com/forms/d/e/1FAIpQLScbTkbxzuep4PdGhvZmxZCTktP8l90OqVR7Ma25WjJVWOHtWQ/viewform) is still open. The deadline has not opened for mentees, so stay tuned for future program updates! I've been involved with this organization for years and will be serving as a mentor for a few preparatory sessions later this November.
 
 ### Program Lists
 * [CS Rankings](http://csrankings.org/#/index?all) (My favorite resource for finding top CS programs!)
