@@ -11,7 +11,7 @@ Will be updating for 2023 as soon as I can! In the meantime, this [Twitter threa
 | Brown | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLScdG8AjMHfKAYmG8BqRBek6QffvZGUOTl9vgHnlClAUPZuOQw/viewform) | Rolling | Both | Status Unknown | 
 | Carnegie Mellon | [Computer Science](https://www.cs.cmu.edu/gasp) | Rolling | Both |              | 
 | Carnegie Mellon | [Human-Computer Interaction](https://docs.google.com/forms/d/e/1FAIpQLSeBMe-7vZ0cyofdJWmXkNMvNxx8J9uJp5FHhe0uK_OEZq0I1A/viewform) | Rolling  | PhD |              | 
-| Cornell | [Computer Science](https://www.cs.cornell.edu/information/news/newsitem12443/student-applicant-support-program-computer-science-phd) | October 7th, 2022  | PhD |              |
+| Cornell | [Computer Science](https://www.cs.cornell.edu/phd/admissions) | October 6th, 2023  | PhD |              |
 |         | [Information Science](https://docs.google.com/forms/d/e/1FAIpQLSd4Rrsa7QYKS7V8B283gC0mpqqBALRSnCbIzr3SV9uLZHXqxw/viewform) | TBD | PhD | Status Unknown |
 |         | [Operations Research](https://forms.gle/FEBgiRyAqhPhEcGr9) | TBD | PhD | Status Unknown |
 | Columbia | [Computer Science](https://www.cs.columbia.edu/cscu-phd-par-program/) | November 7th, 2022 | PhD |  |
@@ -23,7 +23,7 @@ Will be updating for 2023 as soon as I can! In the meantime, this [Twitter threa
 | Oregon State University | [Computer Science](https://www.aigsa.club/) | Rolling | PhD |              |
 | Princeton | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLSfKre2DhYTb65Ma21y4xPWxThX9YFClTz9YTSY_885WCLw0dA/viewform) | TBD | PhD | Status Unknown |
 | Stanford | [Computer Science](https://cs.stanford.edu/admissions/phd/general-information) | October 29th, 2022 | PhD |              |
-| UC Berkeley | [Electrical Engineering and Computer Science (EECS)](https://sites.google.com/berkeley.edu/eaaa/home) | October 8th, 2022 | Both |               |
+| UC Berkeley | [Electrical Engineering and Computer Science (EECS)](https://sites.google.com/berkeley.edu/eaaa/home) | October 8th, 2023 | Both |               |
 |  | [School of Information (iSchool)](https://docs.google.com/forms/d/e/1FAIpQLSeGHXypnrBYIkJL2jsSbAHFqoEDUnZFlqQqqVCLafTL2w_8tw/closedform) | TBD | PhD | Status Unknown | 
 | University of Chicago | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLScWh8dLviaAfUee4TEb6DENuBennnEpZZ71it1JQJ4UcWbiDw/viewform) | November 15th, 2022 | PhD |              |
 | University of Colorado Boulder | [Computer Science](https://www.colorado.edu/cs/admissions/graduate-admissions) | November 15th, 2022 | PhD |              |
@@ -36,6 +36,7 @@ Will be updating for 2023 as soon as I can! In the meantime, this [Twitter threa
 | University of Toronto | [Computer Science](https://sites.google.com/view/torontogaap) | TBD | Both | Status Unknown |
 | University of Washington | [Computer Science](https://www.cs.washington.edu/academics/phd/admissions/pams) | October 15th, 2022 | PhD |              |
 |         | [Electrical & Computer Engineering](https://docs.google.com/forms/d/e/1FAIpQLSd4Rrsa7QYKS7V8B283gC0mpqqBALRSnCbIzr3SV9uLZHXqxw/viewform) | TBD | PhD | Status Unknown |
+|         | [Information School](https://docs.google.com/forms/d/e/1FAIpQLScarQbhibcskwkPcxDmkxa46ltvHRmYFF6Ap1pGGhjbp7CtrA/viewform) | November 25th, 2023 | PhD | Status Unknown |
 |               |               |              |              |              |
 |               |               |              |              |              |
 |               |               |              |              |              |
