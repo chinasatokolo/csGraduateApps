@@ -30,6 +30,7 @@ Please note that these programs are primarily for underrepresented students who 
 | UC Berkeley | [Electrical Engineering and Computer Science (EECS)](https://sites.google.com/berkeley.edu/eaaa/home) | October 8th, 2023 | Both |               |
 |  | [School of Information (iSchool)](https://www.ischool.berkeley.edu/programs/phd/apply/faq#feedback) | November 15th, 2023 | PhD |  | 
 | University of Chicago | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLSeNwJSngePVrKxv8oMVpOnHilfYTm3bdwlVRoQN0jtVxWqvhQ/viewform) | November 25, 2023 | PhD | |
+| University of Colorado Boulder | [Computer Science](https://www.colorado.edu/cs/admissions/graduate-admissions) | TBD | PhD | Status Unknown |
 | University of Massachusetts Amherst | [Computer Science](https://paspumasscs.github.io) | November 20, 2023 | PhD |  |
 | University of Michigan | [Electrical Engineering and Computer Science (EECS)](https://docs.google.com/forms/d/e/1FAIpQLSfgppaIsr1eMjVtqLuX1lFpmoYTAIBOsDj8reDfgEs8OPCrlg/viewform) | TBD | PhD | Status Unknown |
 |         | [Information School](https://docs.google.com/forms/d/e/1FAIpQLScNeA4kUsDwdwFCrAldBOm9kd8CrD8hIc8bmTPsnCTWqZET5g) | November 15th, 2023 | PhD | |
