@@ -5,21 +5,21 @@ There are dozens of PhD programs in Computer Science (based in the United States
 
 For programs I have not seen updates for the upcoming application cycle, they are listed as "Status Unknown".
 
-**updated 2023 deadlines for 2024-2025 cycle included**
+**Deadlines for 2024-2025 cycle have been updated**
 
 Please note that these programs are primarily for underrepresented students who have little access to external support in preparing their graduate school applications. Given the limited support available by many of these programs, it is important to be thoughtful in applying to these programs.
 
 ## Applicant Support Programs 
 | School        | Program       | Deadline     | Masters/PhD  | Other details |
 | ------------- |:-------------:| ------------:| ------------:| ------------:|
-| Brown | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLScdG8AjMHfKAYmG8BqRBek6QffvZGUOTl9vgHnlClAUPZuOQw/viewform) | Rolling | Both | Status Unknown | 
+| Brown | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLScdG8AjMHfKAYmG8BqRBek6QffvZGUOTl9vgHnlClAUPZuOQw/viewform) | TBD | Both | Status Unknown | 
 | Carnegie Mellon | [Computer Science](https://www.cs.cmu.edu/academics/phd/application-support) | September 30, 2023 | PhD |              | 
-| Carnegie Mellon | [Human-Computer Interaction](https://docs.google.com/forms/d/e/1FAIpQLSeBMe-7vZ0cyofdJWmXkNMvNxx8J9uJp5FHhe0uK_OEZq0I1A/viewform) | TBD | PhD |    | 
+|  | [Human-Computer Interaction](https://docs.google.com/forms/d/e/1FAIpQLSeBMe-7vZ0cyofdJWmXkNMvNxx8J9uJp5FHhe0uK_OEZq0I1A/viewform) | TBD | PhD |    | 
 | Cornell | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLSeim214cPsCypGeK7rQSGiUVtapoXTDbrlIxzHYmyeAYN_hew/viewform?usp=sf_link) | October 6, 2023  | PhD |              |
 |         | [Information Science](https://forms.gle/vNqUsUDHE7A4hroB7) | November 10, 2023 | PhD |  |
 |         | [Operations Research](https://forms.gle/FEBgiRyAqhPhEcGr9) | December 1, 2023 | PhD |  |
 | Columbia | [Computer Science](https://www.cs.columbia.edu/cscu-phd-par-program/) | November 10, 2023 | PhD |  |
-| ETH Zurich | [All departments](https://www.ethzpaap.com/) | Rolling | MSc |  Status Unknown  |
+| ETH Zurich | [All departments](https://www.ethzpaap.com/) | TBD | MSc |  Status Unknown  |
 | Georgia Tech | [College of Computing](https://forms.office.com/pages/responsepage.aspx?id=u5ghSHuuJUuLem1_Mvqgg9xAot3THqRBplHR_fgRBB9UOTRaQ0hWNTVCNjlGTzE2TTIxTlZCTE5YWi4u) | TBD | PhD | Status Unknown |
 | Johns Hopkins | [Computer Science and Electrical Engineering](https://www.clsp.jhu.edu/apply-for-phd/) | November 19, 2023 | PhD |              |
 | MIT | [Electrical Engineering and Computer Science (EECS)](https://eecs-gaap.mit.edu) | November 8th, 2023 | PhD |              |
@@ -29,7 +29,7 @@ Please note that these programs are primarily for underrepresented students who 
 | Stanford | [Computer Science](https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/media/file/sasp2023final_0.pdf) | October 27, 2023 | PhD |              |
 | UC Berkeley | [Electrical Engineering and Computer Science (EECS)](https://sites.google.com/berkeley.edu/eaaa/home) | October 8th, 2023 | Both |               |
 |  | [School of Information (iSchool)](https://www.ischool.berkeley.edu/programs/phd/apply/faq#feedback) | November 15th, 2023 | PhD |  | 
-| University of Chicago | [Computer Science](https://urldefense.com/v3/__https://forms.gle/j63A9Kfg49nauzB1A__;!!BpyFHLRN4TMTrA!4798Q_mNfDh52hVgm1y7q9r09ZpmXSgv1vkziUbZpmgnTlwg704Aec9lsMjXLhdHJcob00JcVEtc861BkudrWOrNWdhawGby$) | November 25, 2023 | PhD | |
+| University of Chicago | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLSeNwJSngePVrKxv8oMVpOnHilfYTm3bdwlVRoQN0jtVxWqvhQ/viewform) | November 25, 2023 | PhD | |
 | University of Massachusetts Amherst | [Computer Science](https://paspumasscs.github.io) | November 20, 2023 | PhD |  |
 | University of Michigan | [Electrical Engineering and Computer Science (EECS)](https://docs.google.com/forms/d/e/1FAIpQLSfgppaIsr1eMjVtqLuX1lFpmoYTAIBOsDj8reDfgEs8OPCrlg/viewform) | TBD | PhD | Status Unknown |
 |         | [Information School](https://docs.google.com/forms/d/e/1FAIpQLScNeA4kUsDwdwFCrAldBOm9kd8CrD8hIc8bmTPsnCTWqZET5g) | November 15th, 2023 | PhD | |
