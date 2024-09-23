@@ -5,7 +5,7 @@ There are dozens of PhD programs in Computer Science (based in the United States
 
 For programs I have not seen updates for the upcoming application cycle, they are listed as "Status Unknown".
 
-**Deadlines for 2024-2025 cycle have been updated**
+**Updating 2024-2025 deadlines**
 
 Please note that these programs are primarily for underrepresented students who have little access to external support in preparing their graduate school applications. Given the limited support available by many of these programs, it is important to be thoughtful in applying to these programs.
 
@@ -23,7 +23,7 @@ Please note that these programs are primarily for underrepresented students who 
 | Georgia Tech | [College of Computing](https://forms.office.com/pages/responsepage.aspx?id=u5ghSHuuJUuLem1_Mvqgg9xAot3THqRBplHR_fgRBB9UOTRaQ0hWNTVCNjlGTzE2TTIxTlZCTE5YWi4u) | TBD | PhD | Status Unknown |
 | Johns Hopkins | [Computer Science and Electrical Engineering](https://www.clsp.jhu.edu/apply-for-phd/) | November 19, 2023 | PhD |              |
 | MIT | [Electrical Engineering and Computer Science (EECS)](https://eecs-gaap.mit.edu) | November 8th, 2023 | PhD |              |
-| Northwestern | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLSchg_HC_1gPvxKMBkOjleih4rVuGX894Slr_RfBh7URSv_81w/closedform) | November 8, 2023 | PhD |  |
+| Northwestern | [Computer Science](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/admissions/) | November 4, 2024 | PhD |  |
 | Oregon State University | [Computer Science](https://www.aigsa.club/aiasp/) | November 1, 2023 | PhD |            |
 | Princeton | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLSeDGcQpK2CM9cdFCwfjmqOay9F26_EJMSSyKNHq_7BT2rhneg/viewform) | November 1, 2023 | PhD |  |
 | Stanford | [Computer Science](https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/media/file/sasp2023final_0.pdf) | October 27, 2023 | PhD |              |
