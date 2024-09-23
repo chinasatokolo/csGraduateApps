@@ -39,8 +39,8 @@ Please note that these programs are primarily for underrepresented students who 
 | University of Texas at Austin | [Computer Science](https://www.cs.utexas.edu/graduate-program/prospective-students/applicationmentorship) | TBD | PhD | Status Unknown |
 | University of Toronto | [Computer Science](https://sites.google.com/view/torontogaap) | November 3, 2023 | Both |  |
 |         | [School of Information](https://docs.google.com/forms/d/e/1FAIpQLSdUsjQ8gAx5_-DGZoX1tPLUllZTLA7_aGRr0pxmWdxIyhkxFg/viewform) | November 15, 2023 | PhD |       |
-| University of Washington | [Computer Science](https://www.cs.washington.edu/academics/phd/admissions/pams) | October 13, 2023 | PhD |  |
-|         | [Electrical & Computer Engineering](https://www.ece.uw.edu/academics/grad/graduate-info-sessions/) | November 10, 2023 | PhD |  |
+| University of Washington | [Computer Science](https://www.cs.washington.edu/academics/phd/admissions/pams) | Rolling | PhD |  |
+|         | [Electrical & Computer Engineering](https://www.ece.uw.edu/academics/grad/graduate-info-sessions/) | November 10th, 2023 | PhD |  |
 |         | [Information School](https://ischool.uw.edu/diversity/idiversity-recruiters) | Rolling | Both |  |
 |               |               |              |              |              |
 |               |               |              |              |              |
