@@ -22,12 +22,12 @@ Please note that these programs are primarily for underrepresented students who 
 | ETH Zurich | [All departments](https://www.ethzpaap.com/) | TBD | MSc |  Status Unknown  |
 | Georgia Tech | [College of Computing](https://forms.office.com/pages/responsepage.aspx?id=u5ghSHuuJUuLem1_Mvqgg9xAot3THqRBplHR_fgRBB9UOTRaQ0hWNTVCNjlGTzE2TTIxTlZCTE5YWi4u) | TBD | PhD | Status Unknown |
 | Johns Hopkins | [Computer Science and Electrical Engineering](https://www.clsp.jhu.edu/apply-for-phd/) | November 19, 2023 | PhD |              |
-| MIT | [Electrical Engineering and Computer Science (EECS)](https://eecs-gaap.mit.edu) | November 8th, 2023 | PhD |              |
+| MIT | [Electrical Engineering and Computer Science (EECS)](https://eecs-gaap.mit.edu) | October 15th, 2024 | PhD |              |
 | Northwestern | [Computer Science](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/admissions/) | November 4, 2024 | PhD |  |
 | Oregon State University | [Computer Science](https://www.aigsa.club/aiasp/) | November 1, 2023 | PhD |            |
 | Princeton | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLSeDGcQpK2CM9cdFCwfjmqOay9F26_EJMSSyKNHq_7BT2rhneg/viewform) | November 1, 2023 | PhD |  |
 | Stanford | [Computer Science](https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/media/file/sasp2023final_0.pdf) | October 27, 2023 | PhD |              |
-| UC Berkeley | [Electrical Engineering and Computer Science (EECS)](https://sites.google.com/berkeley.edu/eaaa/home) | October 8th, 2023 | Both |               |
+| UC Berkeley | [Electrical Engineering and Computer Science (EECS)](https://sites.google.com/berkeley.edu/eaaa/home) | October 6th, 2024 | Both |               |
 |  | [School of Information (iSchool)](https://www.ischool.berkeley.edu/programs/phd/apply/faq#feedback) | November 15th, 2023 | PhD |  | 
 | University of Chicago | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLSeNwJSngePVrKxv8oMVpOnHilfYTm3bdwlVRoQN0jtVxWqvhQ/viewform) | November 25, 2023 | PhD | |
 | University of Colorado Boulder | [Computer Science](https://www.colorado.edu/cs/admissions/graduate-admissions) | TBD | PhD | Status Unknown |
