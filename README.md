@@ -5,7 +5,7 @@ There are dozens of PhD programs in Computer Science (based in the United States
 
 For programs I have not seen updates for the upcoming application cycle, they are listed as "Status Unknown".
 
-**Updating 2024-2025 deadlines**
+**In the process of updating 2024-2025 deadlines! This [list](https://www.andrewkuz.net/public/dashboards/cs-hci-phd-application-review-programs/2025/html/cs-hci-phd-application-review-programs-2025.html) by Andrew Kuznetsov may also be useful.**
 
 Please note that these programs are primarily for underrepresented students who have little access to external support in preparing their graduate school applications. Given the limited support available by many of these programs, it is important to be thoughtful in applying to these programs.
 
