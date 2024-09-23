@@ -54,7 +54,7 @@ When applying to graduate school, my main thesis was set in two parts: (1) the p
 
 Also, [Black in AI](https://blackinai2020.vercel.app/) recently relaunched their [ Emerging Leaders in AI](https://blackinai.github.io/post/academic_programs/) to support Black students applying to graduate programs! If you'd like to mentor, the [interest form](https://docs.google.com/forms/d/e/1FAIpQLScbTkbxzuep4PdGhvZmxZCTktP8l90OqVR7Ma25WjJVWOHtWQ/viewform) is still open. The deadline has not opened for mentees, so stay tuned for future program updates! I've been involved with this organization for years and will be serving as a mentor for a few preparatory sessions later this November.
 
-[Queer in AI](https://www.queerinai.com) also launched their [Graduate School Application Program](https://www.queerinai.com/grad-app-aid) this year. If you have the means, please [donate](https://www.paypal.com/donate/?hosted_button_id=5S54QTPH8WCAG) to their Grad App Fund.
+[Queer in AI](https://www.queerinai.com) also launched their [Graduate School Application Program](https://www.queerinai.com/grad-app-aid) last year. If you have the means, please [donate](https://www.paypal.com/donate/?hosted_button_id=5S54QTPH8WCAG) to their Grad App Fund.
 
 ### Program Lists
 * [CS Rankings](http://csrankings.org/#/index?all) (My favorite resource for finding top CS programs!)
