@@ -16,7 +16,7 @@ Please note that these programs are primarily for underrepresented students who 
 | Carnegie Mellon | [Computer Science](https://www.cs.cmu.edu/academics/phd/application-support) | September 30, 2023 | PhD |              | 
 |  | [Human-Computer Interaction](https://docs.google.com/forms/d/e/1FAIpQLSeBMe-7vZ0cyofdJWmXkNMvNxx8J9uJp5FHhe0uK_OEZq0I1A/viewform) | TBD | PhD |    | 
 | Cornell | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLSeim214cPsCypGeK7rQSGiUVtapoXTDbrlIxzHYmyeAYN_hew/viewform?usp=sf_link) | October 6, 2023  | PhD |              |
-|         | [Information Science](https://forms.gle/vNqUsUDHE7A4hroB7) | November 10, 2023 | PhD |  |
+|         | [Information Science](https://infosci.cornell.edu/phd/admissions) | October 31, 2024 | PhD |  |
 |         | [Operations Research](https://forms.gle/FEBgiRyAqhPhEcGr9) | December 1, 2023 | PhD |  |
 | Columbia | [Computer Science](https://www.cs.columbia.edu/cscu-phd-par-program/) | November 10, 2023 | PhD |  |
 | ETH Zurich | [All departments](https://www.ethzpaap.com/) | TBD | MSc |  Status Unknown  |
