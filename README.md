@@ -39,7 +39,7 @@ Please note that these programs are primarily for underrepresented students who 
 | University of Texas at Austin | [Computer Science](https://www.cs.utexas.edu/graduate-program/prospective-students/applicationmentorship) | TBD | PhD | Status Unknown |
 | University of Toronto | [Computer Science](https://sites.google.com/view/torontogaap) | TBD | Both |  Status Unknown  |
 |         | [School of Information](https://docs.google.com/forms/d/e/1FAIpQLSdVa6vyKDcFQrlz0-WBTx2jfJ69prO62Ck4XTTPsMD8KcLjSg/viewform) | November 10, 2024 | PhD |   |
-| University of Washington | [Computer Science](https://www.cs.washington.edu/academics/phd/admissions/pams) | Rolling | PhD |  |
+| University of Washington | [Computer Science](https://www.cs.washington.edu/academics/phd/admissions/pams) | Rolling | PhD | Applications open starting in mid-September 2025 |
 |         | [Electrical & Computer Engineering](https://www.ece.uw.edu/academics/grad/graduate-info-sessions/) | TBD | PhD | Status Unknown |
 |         | [Information School](https://ischool.uw.edu/diversity/idiversity-recruiters) | TBD | Both | Canceled for 2024-2025 |
 |               |               |              |              |              |
