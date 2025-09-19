@@ -27,7 +27,7 @@ Please note that these programs are primarily for underrepresented students who 
 | Oregon State University | [Computer Science](https://www.aigsa.club/aiasp/) | TBD | PhD | Status Unknown |
 | Princeton | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLSeDGcQpK2CM9cdFCwfjmqOay9F26_EJMSSyKNHq_7BT2rhneg/viewform) | TBD | PhD | Status Unknown |
 | Stanford | [Computer Science](https://www.cs.stanford.edu/admissions-student-resources) | TBD | PhD | November 25th, 2025 |
-| UC Berkeley | [Electrical Engineering and Computer Science (EECS)](https://sites.google.com/berkeley.edu/eaaa/home) | October 6th, 2024 | Both |               |
+| UC Berkeley | [Electrical Engineering and Computer Science (EECS)](https://sites.google.com/berkeley.edu/eaaa/home) | October 5th, 2025 | Both |               |
 |  | [School of Information (iSchool)](https://www.ischool.berkeley.edu/programs/phd/apply/faq#feedback) | TBD | PhD | Status Unknown |
 | University of Chicago | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLSeNwJSngePVrKxv8oMVpOnHilfYTm3bdwlVRoQN0jtVxWqvhQ/viewform) | TBD | PhD |  Status Unknown  |
 | University of Colorado Boulder | [Computer Science](https://www.colorado.edu/cs/admissions/graduate-admissions) | TBD | PhD | Status Unknown |
