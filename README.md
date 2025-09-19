@@ -13,20 +13,20 @@ Please note that these programs are primarily for underrepresented students who 
 | School        | Program       | Deadline     | Masters/PhD  | Other details |
 | ------------- |:-------------:| ------------:| ------------:| ------------:|
 | Brown | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLScdG8AjMHfKAYmG8BqRBek6QffvZGUOTl9vgHnlClAUPZuOQw/viewform) | TBD | Both | Status Unknown | 
-| Carnegie Mellon | [Computer Science](https://www.cs.cmu.edu/academics/phd/application-support) | October 8th, 2024 | PhD |              | 
+| Carnegie Mellon | [Computer Science](https://www.cs.cmu.edu/academics/phd/application-support) | TBD | PhD | Status Unknown | 
 |  | [Human-Computer Interaction](https://docs.google.com/forms/d/e/1FAIpQLSeBMe-7vZ0cyofdJWmXkNMvNxx8J9uJp5FHhe0uK_OEZq0I1A/viewform) | TBD | PhD | Status Unknown |
-| Cornell | [Computer Science](https://www.cs.cornell.edu/phd/admissions) | October 18th, 2024  | PhD |              |
-|         | [Information Science](https://infosci.cornell.edu/phd/admissions) | October 31, 2024 | PhD |  |
+| Cornell | [Computer Science](https://www.cs.cornell.edu/phd/admissions) | TBD  | PhD | Status Unknown  |
+|         | [Information Science](https://infosci.cornell.edu/phd/admissions) | TBD | PhD | Status Unknown  |
 |         | [Operations Research](https://forms.gle/FEBgiRyAqhPhEcGr9) | TBD | PhD |  Status Unknown  |
-| Columbia | [Computer Science](https://www.cs.columbia.edu/cscu-phd-par-program/) | November 10, 2024 | PhD |  |
-| ETH Zurich | [All departments](https://www.ethzpaap.com/) | TBD | MSc |  Status Unknown  |
+| Columbia | [Computer Science](https://www.cs.columbia.edu/cscu-phd-par-program/) | TBD | PhD | Status Unknown |
+| ETH Zurich | [All departments](https://www.ethzpaap.com/) | TBD | MSc | Status Unknown |
 | Georgia Tech | [College of Computing](https://forms.office.com/pages/responsepage.aspx?id=u5ghSHuuJUuLem1_Mvqgg9xAot3THqRBplHR_fgRBB9UOTRaQ0hWNTVCNjlGTzE2TTIxTlZCTE5YWi4u) | TBD | PhD | Status Unknown |
 | Johns Hopkins | [Computer Science and Electrical Engineering](https://www.clsp.jhu.edu/apply-for-phd/) | TBD | PhD | Status Unknown |
-| MIT | [Electrical Engineering and Computer Science (EECS)](https://eecs-gaap.mit.edu) | October 15th, 2024 | PhD |              |
-| Northwestern | [Computer Science](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/admissions/) | November 4, 2024 | PhD |  |
+| MIT | [Electrical Engineering and Computer Science (EECS)](https://eecs-gaap.mit.edu) | TBD | PhD | Status Unknown |
+| Northwestern | [Computer Science](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/admissions/) | TBD | PhD | Status Unknown  |
 | Oregon State University | [Computer Science](https://www.aigsa.club/aiasp/) | TBD | PhD | Status Unknown |
 | Princeton | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLSeDGcQpK2CM9cdFCwfjmqOay9F26_EJMSSyKNHq_7BT2rhneg/viewform) | TBD | PhD | Status Unknown |
-| Stanford | [Computer Science](https://www.cs.stanford.edu/admissions-student-resources) | TBD | PhD | November 25th, 2025 |
+| Stanford | [Computer Science](https://www.cs.stanford.edu/admissions-student-resources) | November 25th, 2025 | PhD |  |
 | UC Berkeley | [Electrical Engineering and Computer Science (EECS)](https://sites.google.com/berkeley.edu/eaaa/home) | October 5th, 2025 | Both |               |
 |  | [School of Information (iSchool)](https://www.ischool.berkeley.edu/programs/phd/apply/faq#feedback) | TBD | PhD | Status Unknown |
 | University of Chicago | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLSeNwJSngePVrKxv8oMVpOnHilfYTm3bdwlVRoQN0jtVxWqvhQ/viewform) | TBD | PhD |  Status Unknown  |
@@ -38,10 +38,10 @@ Please note that these programs are primarily for underrepresented students who 
 |         | [Bioengineering](https://docs.google.com/forms/d/e/1FAIpQLSeJZIy_fiIbuPb4aQRygRPkxiYk0gq20o1zmhQNprKvKK4GsQ) | TBD | PhD | Status Unknown |
 | University of Texas at Austin | [Computer Science](https://www.cs.utexas.edu/graduate-program/prospective-students/applicationmentorship) | TBD | PhD | Status Unknown |
 | University of Toronto | [Computer Science](https://sites.google.com/view/torontogaap) | TBD | Both |  Status Unknown  |
-|         | [School of Information](https://docs.google.com/forms/d/e/1FAIpQLSdVa6vyKDcFQrlz0-WBTx2jfJ69prO62Ck4XTTPsMD8KcLjSg/viewform) | November 10, 2024 | PhD |   |
+|         | [School of Information](https://docs.google.com/forms/d/e/1FAIpQLSdVa6vyKDcFQrlz0-WBTx2jfJ69prO62Ck4XTTPsMD8KcLjSg/viewform) | TBD | PhD | Status Unknown   |
 | University of Washington | [Computer Science](https://www.cs.washington.edu/academics/phd/admissions/pams) | Rolling | PhD | Applications open starting in mid-September 2025 |
 |         | [Electrical & Computer Engineering](https://www.ece.uw.edu/academics/grad/graduate-info-sessions/) | TBD | PhD | Status Unknown |
-|         | [Information School](https://ischool.uw.edu/diversity/idiversity-recruiters) | TBD | Both | Canceled for 2024-2025 |
+|         | [Information School](https://ischool.uw.edu/diversity/idiversity-recruiters) | TBD | Both | Status Unknown |
 |               |               |              |              |              |
 |               |               |              |              |              |
 |               |               |              |              |              |
