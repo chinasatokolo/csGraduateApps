@@ -13,7 +13,7 @@ Please note that these programs are primarily for underrepresented students who 
 | School        | Program       | Deadline     | Masters/PhD  | Other details |
 | ------------- |:-------------:| ------------:| ------------:| ------------:|
 | Brown | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLScdG8AjMHfKAYmG8BqRBek6QffvZGUOTl9vgHnlClAUPZuOQw/viewform) | TBD | Both | Status Unknown | 
-| Carnegie Mellon | [Computer Science](https://www.cs.cmu.edu/academics/phd/application-support) | TBD | PhD | Status Unknown | 
+| Carnegie Mellon | [Computer Science](https://www.cs.cmu.edu/academics/phd/application-support) | October 13th, 2025 | PhD |  | 
 |  | [Human-Computer Interaction](https://docs.google.com/forms/d/e/1FAIpQLSeBMe-7vZ0cyofdJWmXkNMvNxx8J9uJp5FHhe0uK_OEZq0I1A/viewform) | TBD | PhD | Status Unknown |
 | Cornell | [Computer Science](https://www.cs.cornell.edu/phd/admissions) | TBD  | PhD | Status Unknown  |
 |         | [Information Science](https://infosci.cornell.edu/phd/admissions) | TBD | PhD | Status Unknown  |
