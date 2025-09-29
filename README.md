@@ -16,7 +16,7 @@ Please note that these programs are primarily for underrepresented students who 
 | Carnegie Mellon | [Computer Science](https://www.cs.cmu.edu/academics/phd/application-support) | October 13th, 2025 | PhD |  | 
 |  | [Human-Computer Interaction](https://docs.google.com/forms/d/e/1FAIpQLSeBMe-7vZ0cyofdJWmXkNMvNxx8J9uJp5FHhe0uK_OEZq0I1A/viewform) | TBD | PhD | Status Unknown |
 | Cornell | [Computer Science](https://www.cs.cornell.edu/phd/admissions) | TBD  | PhD | Status Unknown  |
-|         | [Information Science](https://infosci.cornell.edu/phd/admissions) | TBD | PhD | Status Unknown  |
+|         | [Information Science](https://infosci.cornell.edu/phd/admissions) | October 27th, 2025 | PhD |   |
 |         | [Operations Research](https://forms.gle/FEBgiRyAqhPhEcGr9) | TBD | PhD |  Status Unknown  |
 | Columbia | [Computer Science](https://www.cs.columbia.edu/cscu-phd-par-program/) | TBD | PhD | Status Unknown |
 | ETH Zurich | [All departments](https://www.ethzpaap.com/) | TBD | MSc | Status Unknown |
